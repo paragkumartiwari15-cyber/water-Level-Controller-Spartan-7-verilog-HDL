@@ -1,0 +1,10 @@
+*.jou
+*.log
+*.str
+*.cache
+*.Xil
+*.runs
+*.sim
+*.tmp
+*.bit
+*.bin
