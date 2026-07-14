@@ -36,3 +36,30 @@ simulation/
 **Parag Kumar Tiwari**
 
 ECE Undergraduate | Aspiring VLSI Engineer
+
+
+---
+
+## RTL Schematic
+
+![RTL Schematic](RTL_schematic.png)
+
+## Simulation Waveform
+
+![Simulation Waveform](simulation_waveform.png)
+
+## FPGA Implementation
+
+![FPGA Implementation](fpga_water_level_controller_implementation.jpg)
+
+## FPGA Board
+
+![FPGA Board](fpga_board.jpg)
+
+## Project Layout
+
+![Project Layout](full_project_layout.png)
+
+## State Diagram
+
+![State Diagram](state_diagram.png)
