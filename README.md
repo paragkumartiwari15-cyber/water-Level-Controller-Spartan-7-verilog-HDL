@@ -1,8 +1,12 @@
-# Water Level Controller System using Verilog HDL
+# FPGA Water Level Controller System using Verilog HDL
+
+![FPGA](https://img.shields.io/badge/FPGA-Spartan--7-blue)
+![Verilog](https://img.shields.io/badge/Language-Verilog-green)
+![Vivado](https://img.shields.io/badge/Tool-AMD%20Vivado-orange)
+![License](https://img.shields.io/badge/License-MIT-red)
 
 ## Project Overview
 This project implements a Water Level Controller System on the Spartan-7 FPGA Boolean Board using Verilog HDL. The controller monitors the water level using sensor inputs and automatically controls the water pump to prevent overflow and dry running.
-
 ## Features
 - Automatic water level monitoring
 - Automatic pump ON/OFF control
